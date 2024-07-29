@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+.iframeWrapper{
+  display:inline-block;
+  position:relative;
+}
+
+.iframeWrapper iframe{
+  vertical-align:top;
+  pointer-events: none; /* let any clicks go trough me */
+}
+</style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script>
+jQuery(function ($) { // DOM ready
+   $('.iframeWrapper').on('click', function(e) {
+     e.preventDefault();
+     MessageInvoker.postMessage('Trigger from Javascript code');
+   });
+
+});
+</script>
+</head>
+
+<body>
+<div class="iframeWrapper">
+    <iframe id='ac2838b1' name='ac2838b1'  src="http://dkmadsnetwork.com/www/delivery/afr.php?zoneid=117&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameBorder="0"></iframe>
+</div>
+</body>
+</html>

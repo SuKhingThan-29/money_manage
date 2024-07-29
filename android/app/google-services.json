@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "974570045543",
+    "project_id": "athabyar-ec7dd",
+    "storage_bucket": "athabyar-ec7dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974570045543:android:3657e20d6020f91f00d4c2",
+        "android_client_info": {
+          "package_name": "com.dkmads.athabyar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974570045543-3aua4lfl3gcs5adjumh1ta0lqj1dkbrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.athabyar",
+            "certificate_hash": "000077e962fbc929dab2269adc892fc2e62f3666"
+          }
+        },
+        {
+          "client_id": "974570045543-j43hjf842khq3pl0quk5cp9d1giv0n4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.athabyar",
+            "certificate_hash": "e1e8bd9177cbcac668f99459bde38b97768ffe2f"
+          }
+        },
+        {
+          "client_id": "974570045543-p3n3k9qbgh01v2n7t9jnk8tvllk7miq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.athabyar",
+            "certificate_hash": "de4ba3ea6943fdbff7e6bca76c38814251ec2ff1"
+          }
+        },
+        {
+          "client_id": "974570045543-qr3ke7fimu72d2684bh2jog496afg98l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkmads.athabyar",
+            "certificate_hash": "cb2fede2b4f16321afce98a3e42c9c8c98f841a4"
+          }
+        },
+        {
+          "client_id": "974570045543-e5rm9ac8uv756cjo8n9rot37evfjrkeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBayX3U1oTHbLab-ErLwFdaX9otlHGElaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974570045543-e5rm9ac8uv756cjo8n9rot37evfjrkeb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974570045543-0gl6g3nooof9a8iulg051qjq5hknv8q6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dkmads.athabyar",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2316532966920798~7320406105"
+    }
+  ],
+  "configuration_version": "1"
+}
